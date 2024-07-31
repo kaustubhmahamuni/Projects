@@ -799,7 +799,7 @@ section,
 
 .hero h2 {
   margin: 0;
-  color:var(--accent-color);
+  color:#D8BFD8;
   font-size: 44px;
   font-weight: 700;
 }
@@ -807,7 +807,7 @@ section,
 .hero p {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   margin: 5px 0 0 0;
-  color:var(--accent-color);
+  color:#D8BFD8;
   font-size: 20px;
 }
 

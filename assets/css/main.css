@@ -215,10 +215,10 @@ h6 {
 /* Index Page Header
 ------------------------------*/
 .index-page .header {
-  --background-color: rgba(255, 255, 255, 0);
-  --heading-color: #ffffff;
-  --nav-color: #ffffff;
-  --nav-hover-color: #ffffff;
+ --background-color: rgba(255, 255, 255, 0);
+    --heading-color: lightgoldenrodyellow;
+    --nav-color: lightgoldenrodyellow;;
+    --nav-hover-color: #ffffff;
 }
 
 /* Index Page Header on Scroll
@@ -785,11 +785,11 @@ section,
 }
 
 .hero:before {
-  content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 50%);
-  position: absolute;
-  inset: 0;
-  z-index: 2;   
+    content: "";
+    background: color-mix(in srgb, var(--background-color), transparent 60%);
+    position: absolute;
+    inset: 0;
+    z-index: 2;    
 }
 
 .hero .container {
